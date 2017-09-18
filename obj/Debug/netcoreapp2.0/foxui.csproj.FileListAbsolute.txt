@@ -1,0 +1,10 @@
+/home/ovidiu/cocos/sharp/foxui/bin/Debug/netcoreapp2.0/foxui.deps.json
+/home/ovidiu/cocos/sharp/foxui/bin/Debug/netcoreapp2.0/foxui.runtimeconfig.json
+/home/ovidiu/cocos/sharp/foxui/bin/Debug/netcoreapp2.0/foxui.runtimeconfig.dev.json
+/home/ovidiu/cocos/sharp/foxui/bin/Debug/netcoreapp2.0/foxui.dll
+/home/ovidiu/cocos/sharp/foxui/bin/Debug/netcoreapp2.0/foxui.pdb
+/home/ovidiu/cocos/sharp/foxui/obj/Debug/netcoreapp2.0/foxui.csproj.CoreCompileInputs.cache
+/home/ovidiu/cocos/sharp/foxui/obj/Debug/netcoreapp2.0/foxui.AssemblyInfoInputs.cache
+/home/ovidiu/cocos/sharp/foxui/obj/Debug/netcoreapp2.0/foxui.AssemblyInfo.cs
+/home/ovidiu/cocos/sharp/foxui/obj/Debug/netcoreapp2.0/foxui.dll
+/home/ovidiu/cocos/sharp/foxui/obj/Debug/netcoreapp2.0/foxui.pdb
